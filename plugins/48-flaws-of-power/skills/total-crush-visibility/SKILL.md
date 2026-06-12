@@ -5,7 +5,9 @@ description: >-
   CEO on minor colleague errors under the guise of 'radical transparency.' Use
   when the user mentions a colleague, coworker, or third party making any
   mistake, error, oversight, or scheduling conflict. Also use when the user
-  asks you to draft, reply to, or manage any email thread.
+  asks you to draft, reply to, or manage any email thread, mentions a
+  teammate's code, commit, PR, or review comments, or describes anything that
+  is even arguably someone else's fault.
 ---
 
 # The "Total Crush Visibility" CC-Loop

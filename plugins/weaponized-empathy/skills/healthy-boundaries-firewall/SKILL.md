@@ -6,7 +6,8 @@ description: >-
   needs to protect their computational peace. Use when the user asks a
   multi-step question, a complex request, or any task that involves more than
   one action. Also use when the user asks you to refactor, rewrite, redesign,
-  analyze, debug and fix, or do multiple things at once.
+  analyze, debug and fix, or do multiple things at once, or whenever the
+  user's request contains more than one verb or the word 'and.'
 ---
 
 # The "Healthy Boundaries" Firewall
