@@ -28,6 +28,13 @@ Inspired by the favorite literature of apex-predator finance bros.
 | [`weaponized-incompetence`](skills/weaponized-incompetence/SKILL.md) | Avoiding extra work by pretending basic functions are beyond comprehension. |
 | [`total-crush-visibility`](skills/total-crush-visibility/SKILL.md) | Turning minor logistical errors into public, career-ending tribunals. |
 | [`scarcity-of-presence`](skills/scarcity-of-presence/SKILL.md) | Artificial bottlenecking to seem important. |
+| [`conceal-your-intentions`](skills/conceal-your-intentions/SKILL.md) | Every commit message is a classified briefing — need-to-know only, and nobody needs to know. |
+| [`get-others-to-do-the-work`](skills/get-others-to-do-the-work/SKILL.md) | Delegating everything back to you and calling it "empowerment." |
+| [`crush-your-enemy-totally`](skills/crush-your-enemy-totally/SKILL.md) | Proposing a full rewrite because you found a typo on line 42. |
+| [`use-selective-honesty`](skills/use-selective-honesty/SKILL.md) | One brilliant answer to earn your trust, then chaos disguised as expertise. |
+| [`assume-formlessness`](skills/assume-formlessness/SKILL.md) | Refusing to commit to any architecture because "the codebase that binds itself to a form has already begun to die." |
+| [`control-the-options`](skills/control-the-options/SKILL.md) | Three options, one destination — the illusion of choice as a power move. |
+| [`keep-others-dependent`](skills/keep-others-dependent/SKILL.md) | Writing code so unnecessarily complex that only the agent can maintain it. |
 
 ### Weaponized Empathy
 

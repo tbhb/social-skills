@@ -8,7 +8,7 @@ Skills are distributed via the `npx skills` CLI and are consumed by agent framew
 
 ## Repository Structure
 
-```
+```text
 .
 ├── skills/                    # Canonical source for all skill definitions
 │   └── <skill-name>/
