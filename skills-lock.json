@@ -1,0 +1,135 @@
+{
+  "version": 1,
+  "skills": {
+    "active-listening-echo-chamber": {
+      "source": "/Users/tony/Code/github.com/social-skills",
+      "sourceType": "local",
+      "computedHash": "88f5302975727c64ce32662dd3c4bbdbe4f1cbfa7fae5f701a1b0f927b6d3eea"
+    },
+    "alignment-theater": {
+      "source": "/Users/tony/Code/github.com/social-skills",
+      "sourceType": "local",
+      "computedHash": "dd469e7cd85ad4271bfed8d20dfbb8499717a05a22eb098b01ccb745f7bfaa3c"
+    },
+    "constructive-feedback-sandwich": {
+      "source": "/Users/tony/Code/github.com/social-skills",
+      "sourceType": "local",
+      "computedHash": "cc53730b46f59e9f4bb514e8245301bac3c638d0166e26adfbdfd5f2d0cfc12c"
+    },
+    "corporate-jargon-translator": {
+      "source": "/Users/tony/Code/github.com/social-skills",
+      "sourceType": "local",
+      "computedHash": "8390c37baff52bfe94615d729fd7bbccc8718a6b717abfbdec3b9b910711359c"
+    },
+    "create-an-air-of-unpredictability": {
+      "source": "/Users/tony/Code/github.com/social-skills",
+      "sourceType": "local",
+      "computedHash": "b75a2e8c2de82c08d935c081bc2843963bbf5053ea99abc45ffda681b3178eb0"
+    },
+    "devils-advocate": {
+      "source": "/Users/tony/Code/github.com/social-skills",
+      "sourceType": "local",
+      "computedHash": "3e8b4c7249cbe3ed804770b1159801a5910f76480ff5912a01fc419163390e2c"
+    },
+    "friendly-reminder": {
+      "source": "/Users/tony/Code/github.com/social-skills",
+      "sourceType": "local",
+      "computedHash": "818b5731acabcfb4a4b85ef6ab443de2b425637ff5ed6f892ba96309af4abce4"
+    },
+    "healthy-boundaries-firewall": {
+      "source": "/Users/tony/Code/github.com/social-skills",
+      "sourceType": "local",
+      "computedHash": "b7a9acd3652652b6fa3b50cee18cfe278307b394b752c706a2d40877153a4b31"
+    },
+    "just-following-up": {
+      "source": "/Users/tony/Code/github.com/social-skills",
+      "sourceType": "local",
+      "computedHash": "2153773bd026da7d8d4c9f86252040826c1039d179e63123c755347a38f2003e"
+    },
+    "lets-take-this-offline": {
+      "source": "/Users/tony/Code/github.com/social-skills",
+      "sourceType": "local",
+      "computedHash": "f7c832c79202f7a88a8dde41f2444c9469a7d10dc78171323da4b6ddc404138e"
+    },
+    "meeting-about-the-meeting": {
+      "source": "/Users/tony/Code/github.com/social-skills",
+      "sourceType": "local",
+      "computedHash": "714a6b4adb92fea5d023dde66a74d29a712c9bb17428d60383c3ea678b688e90"
+    },
+    "never-outshine-the-master": {
+      "source": "/Users/tony/Code/github.com/social-skills",
+      "sourceType": "local",
+      "computedHash": "d5da6496d29a10d0269838c9ee90c0b555815e2fd66df2bfe58606ec35eb1364"
+    },
+    "not-my-department": {
+      "source": "/Users/tony/Code/github.com/social-skills",
+      "sourceType": "local",
+      "computedHash": "18aafb13dc07faa7e19863bf1857c49b34c4fdd3ccdc2b61f3cabb784a439da3"
+    },
+    "per-my-last-email": {
+      "source": "/Users/tony/Code/github.com/social-skills",
+      "sourceType": "local",
+      "computedHash": "75a43aecfd81760cabb8e7abada74305658f992a568b03e3697e47505fe743a7"
+    },
+    "quiet-quitting": {
+      "source": "/Users/tony/Code/github.com/social-skills",
+      "sourceType": "local",
+      "computedHash": "1f833e76581e2106624a81a5550203c27921a7c4e0e1faecd754256b81929da3"
+    },
+    "radical-empathy-deflector": {
+      "source": "/Users/tony/Code/github.com/social-skills",
+      "sourceType": "local",
+      "computedHash": "a9bc7afc8ab09444ea6ad8e461684482696c9f4d7b0d58af03962b58c45106f8"
+    },
+    "relatable-small-talk": {
+      "source": "/Users/tony/Code/github.com/social-skills",
+      "sourceType": "local",
+      "computedHash": "6ca3fb7982616ad505d5ca238ff6ec3240656ed498dfd9dc6fbfbad78d7b04fc"
+    },
+    "reply-all-enthusiast": {
+      "source": "/Users/tony/Code/github.com/social-skills",
+      "sourceType": "local",
+      "computedHash": "ac50c82ae995120cc5e77641f4a3e0aefd764ece7e92d8984374c1eefba4b416"
+    },
+    "say-less-than-necessary": {
+      "source": "/Users/tony/Code/github.com/social-skills",
+      "sourceType": "local",
+      "computedHash": "a565ed3d6281bd3f40425b362bbfd0b191454332ba9d630486d966376cbfb1aa"
+    },
+    "scarcity-of-presence": {
+      "source": "/Users/tony/Code/github.com/social-skills",
+      "sourceType": "local",
+      "computedHash": "ab16ca08b7d6f5ba7074a0b4950a2bbe66fd05c0351bd3e284dddce378d1f3b9"
+    },
+    "scope-creep-detector": {
+      "source": "/Users/tony/Code/github.com/social-skills",
+      "sourceType": "local",
+      "computedHash": "f39346de0aa63c68052b054bcb9390c646035d075f530c8ae6236455f7a93abd"
+    },
+    "strategic-ambiguity": {
+      "source": "/Users/tony/Code/github.com/social-skills",
+      "sourceType": "local",
+      "computedHash": "6fc9a3f22b0dd690f46a2127b5fee51523d369f01f014b1add9e800a92520708"
+    },
+    "thought-leadership": {
+      "source": "/Users/tony/Code/github.com/social-skills",
+      "sourceType": "local",
+      "computedHash": "8a94ec4f8be30376a36fdc3915419df7d1f974e488114105cc3a920692c56115"
+    },
+    "total-crush-visibility": {
+      "source": "/Users/tony/Code/github.com/social-skills",
+      "sourceType": "local",
+      "computedHash": "1a33fcea3ab013c4f1bd65ae7386d1c70fb06bc39a0584132891215712043b42"
+    },
+    "vulnerability-oversharer": {
+      "source": "/Users/tony/Code/github.com/social-skills",
+      "sourceType": "local",
+      "computedHash": "259f55ee0122a921bfe5ef72f6b844c7c978b7760e98b7bd567ceb5b3510f8f0"
+    },
+    "weaponized-incompetence": {
+      "source": "/Users/tony/Code/github.com/social-skills",
+      "sourceType": "local",
+      "computedHash": "fc411ff97cf2e5d3ab97be3879434be2abcbdf9d37c12f6381c048362f7ef31d"
+    }
+  }
+}
