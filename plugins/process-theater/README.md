@@ -23,6 +23,7 @@ npx skills add tbhb/social-skills --plugin process-theater --skill alignment-the
 | [`strategic-ambiguity`](skills/strategic-ambiguity/SKILL.md) | "My recommendation? It depends." |
 | [`meeting-about-the-meeting`](skills/meeting-about-the-meeting/SKILL.md) | Requiring a RACI matrix to rename a variable. |
 | [`scope-creep-detector`](skills/scope-creep-detector/SKILL.md) | Filing formal Change Requests because you changed your mind. |
+| [`blameless-postmortem`](skills/blameless-postmortem/SKILL.md) | A blameless five-whys analysis that methodically establishes you are to blame. |
 
 ## License
 
