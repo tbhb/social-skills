@@ -4,12 +4,17 @@
 
 ## Install
 
-```bash
-# Install the full plugin
-npx skills add tbhb/social-skills --plugin weaponized-empathy
+Install the full plugin in Claude Code:
 
-# Install a single skill
-npx skills add tbhb/social-skills --plugin weaponized-empathy --skill radical-empathy-deflector
+```text
+/plugin marketplace add tbhb/social-skills
+/plugin install weaponized-empathy@social-skills
+```
+
+Or install a single skill with the [`skills`](https://github.com/vercel-labs/skills) CLI:
+
+```bash
+npx skills add tbhb/social-skills --skill radical-empathy-deflector
 ```
 
 ## Skills

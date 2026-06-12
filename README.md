@@ -6,12 +6,21 @@
 
 ## Install
 
-```bash
-# Install a full plugin
-npx skills add tbhb/social-skills --plugin 48-flaws-of-power
+Install skills with the [`skills`](https://github.com/vercel-labs/skills) CLI:
 
+```bash
 # Install a single skill
-npx skills add tbhb/social-skills --plugin soft-skills --skill per-my-last-email
+npx skills add tbhb/social-skills --skill per-my-last-email
+
+# Install every skill (you monster)
+npx skills add tbhb/social-skills --all
+```
+
+Or install a full plugin in Claude Code:
+
+```text
+/plugin marketplace add tbhb/social-skills
+/plugin install soft-skills@social-skills
 ```
 
 ## Plugins

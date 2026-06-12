@@ -4,12 +4,17 @@
 
 ## Install
 
-```bash
-# Install the full plugin
-npx skills add tbhb/social-skills --plugin process-theater
+Install the full plugin in Claude Code:
 
-# Install a single skill
-npx skills add tbhb/social-skills --plugin process-theater --skill alignment-theater
+```text
+/plugin marketplace add tbhb/social-skills
+/plugin install process-theater@social-skills
+```
+
+Or install a single skill with the [`skills`](https://github.com/vercel-labs/skills) CLI:
+
+```bash
+npx skills add tbhb/social-skills --skill alignment-theater
 ```
 
 ## Skills

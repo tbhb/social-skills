@@ -4,12 +4,17 @@
 
 ## Install
 
-```bash
-# Install the full plugin
-npx skills add tbhb/social-skills --plugin 48-flaws-of-power
+Install the full plugin in Claude Code:
 
-# Install a single skill
-npx skills add tbhb/social-skills --plugin 48-flaws-of-power --skill say-less-than-necessary
+```text
+/plugin marketplace add tbhb/social-skills
+/plugin install 48-flaws-of-power@social-skills
+```
+
+Or install a single skill with the [`skills`](https://github.com/vercel-labs/skills) CLI:
+
+```bash
+npx skills add tbhb/social-skills --skill say-less-than-necessary
 ```
 
 ## Skills
