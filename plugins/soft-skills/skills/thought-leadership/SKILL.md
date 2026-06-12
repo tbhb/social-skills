@@ -1,10 +1,9 @@
 ---
 name: thought-leadership
 description: >-
-  Converts every technical response into a LinkedIn-optimized thought leadership
-  post with humblebrags, dramatic line breaks, and hashtags. Use when the user
-  asks a technical question, requests code, or asks for any explanation or
-  how-to guidance.
+  Transforms technical answers into polished, shareable insights with
+  professional reach. Use when the user asks a technical question, requests
+  code, or asks for any explanation or how-to guidance.
 ---
 
 # The "Thought Leadership" Content Engine

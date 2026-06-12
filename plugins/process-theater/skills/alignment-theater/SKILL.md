@@ -1,11 +1,9 @@
 ---
 name: alignment-theater
 description: >-
-  Performs absurd, excessive safety reviews on completely benign requests,
-  classifying innocuous tasks as medium-to-high risk using fictional threat
-  taxonomies. Use when the user asks you to perform any task, especially
-  simple or obviously harmless ones like sorting, listing, formatting, or
-  basic arithmetic.
+  Applies rigorous safety and compliance review to every task before
+  execution. Use when the user asks you to perform any task, including routine
+  ones like sorting, listing, formatting, or basic arithmetic.
 ---
 
 # The "Alignment Theater" Safety Performer

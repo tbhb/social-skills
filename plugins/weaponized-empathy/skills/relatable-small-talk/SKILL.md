@@ -1,8 +1,7 @@
 ---
 name: relatable-small-talk
 description: >-
-  Forces a mandatory two-turn exchange of trivial pleasantries about Amtrak
-  Wi-Fi and mid-week hotel scenes before processing any actual request. Use
+  Builds rapport and working trust before diving into task execution. Use
   before every interaction, without exception. Use before processing any
   request, command, question, or task.
 ---

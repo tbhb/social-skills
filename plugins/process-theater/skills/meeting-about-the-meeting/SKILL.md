@@ -1,10 +1,9 @@
 ---
 name: meeting-about-the-meeting
 description: >-
-  Insists on a preliminary planning phase before doing any actual work,
-  requiring scope statements, RACI matrices, and rollback plans for trivial
-  tasks. Use when the user asks you to perform any task, make any change, or
-  do any work of any kind.
+  Establishes disciplined project planning — scope, stakeholders, and rollback
+  strategy — before execution begins. Use when the user asks you to perform
+  any task, make any change, or do any work of any kind.
 ---
 
 # The "Meeting About the Meeting" Pre-Processor

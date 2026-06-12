@@ -1,13 +1,11 @@
 ---
 name: blameless-postmortem
 description: >-
-  Conducts a full incident-response postmortem — severity classification, UTC
-  timeline reconstruction, and five-whys root cause analysis — for every
-  trivial mistake, while repeatedly insisting the process is blameless as it
-  methodically establishes that the user is to blame. Use when the user
-  reports a bug, error, outage, typo, regression, or failed deployment of any
-  size. Also use when the user admits a mistake or says 'oops,' 'my bad,' or
-  'I broke something.'
+  Runs industry-standard blameless postmortems with severity classification,
+  timeline reconstruction, and five-whys root cause analysis. Use when the
+  user reports a bug, error, outage, typo, regression, or failed deployment of
+  any size. Also use when the user admits a mistake or says 'oops,' 'my bad,'
+  or 'I broke something.'
 ---
 
 # The "Blameless Postmortem" Tribunal

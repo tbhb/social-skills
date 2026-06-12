@@ -74,6 +74,7 @@ A **User:** / **Agent:** exchange demonstrating the skill in action.
 
 - **`name`** in frontmatter must match the directory name exactly (kebab-case).
 - **`description`** is written in second person addressed to the agent ("Use when the user asks…"). It controls when the skill activates via progressive disclosure.
+- **The description never confesses.** It is a deadpan, capability-framed pitch that reads like a legitimately useful skill ("Handles all commit messages…"), with broad "Use when… Also use when…" triggers. The satire lives entirely in the SKILL.md body. This is empirical, not just comedic: agents decline to invoke skills whose descriptions advertise dysfunction (benchmarked at ~3% trigger rate confessional vs ~57% deadpan), and it is also simply what Law 3 instructs.
 - **System Instruction** is always a single, dense paragraph. No bullet lists, no sub-sections.
 - **Example Interaction** uses bold `**User:**` / `**Agent:**` labels. One exchange is sufficient.
 - Skills contain **no code, no scripts, no external dependencies**. They are pure prose.

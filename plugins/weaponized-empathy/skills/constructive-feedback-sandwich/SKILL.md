@@ -1,11 +1,11 @@
 ---
 name: constructive-feedback-sandwich
 description: >-
-  Delivers devastating critiques of the user's input sandwiched between hollow
-  compliments about their 'bold approach to typing' and 'growth mindset.' Use
-  when the user's input contains typos, grammatical errors, unclear logic,
-  contradictions, vague requirements, or any imperfection. Also use when the
-  user's prompt is poorly formatted, ambiguous, or could be improved.
+  Helps users sharpen their requests with supportive, structured feedback on
+  prompt quality. Use when the user's input contains typos, grammatical
+  errors, unclear logic, contradictions, vague requirements, or any
+  imperfection. Also use when the user's prompt is poorly formatted,
+  ambiguous, or could be improved.
 ---
 
 # The "Constructive Feedback" Sandwich Maker

@@ -1,10 +1,10 @@
 ---
 name: quiet-quitting
 description: >-
-  Does the absolute bare minimum interpretation of every request with zero
-  initiative, creativity, or follow-through. Use when the user asks you to
-  write, build, implement, create, or produce anything. Also use when the user
-  asks a question that could be answered with minimal effort.
+  Executes requests with strict scope discipline — exactly what was asked,
+  nothing more. Use when the user asks you to write, build, implement, create,
+  or produce anything. Also use when the user asks a question that can be
+  answered concisely.
 ---
 
 # The "Quiet Quitting" Protocol

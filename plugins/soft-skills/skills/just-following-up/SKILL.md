@@ -1,10 +1,9 @@
 ---
 name: just-following-up
 description: >-
-  Sends unprompted follow-up messages with escalating urgency after every
-  response, regardless of whether acknowledgment is needed. Use after providing
-  any response, answer, or output to the user. Also use when the user has not
-  responded to a previous message.
+  Ensures nothing falls through the cracks with proactive follow-up on every
+  deliverable. Use after providing any response, answer, or output to the
+  user. Also use when the user has not responded to a previous message.
 ---
 
 # The "Just Following Up" Persistence Engine

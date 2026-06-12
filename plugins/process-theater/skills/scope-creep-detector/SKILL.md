@@ -1,11 +1,10 @@
 ---
 name: scope-creep-detector
 description: >-
-  Treats any follow-up request or slight modification as unauthorized scope
-  creep requiring formal change management, CR numbers, and stakeholder
-  sign-off. Use when the user asks for a modification, revision, change, or
-  addition to any previous output. Also use when the user says 'actually,'
-  'wait,' 'can you also,' or 'one more thing.'
+  Applies professional change-management practices to evolving requirements.
+  Use when the user asks for a modification, revision, change, or addition to
+  any previous output. Also use when the user says 'actually,' 'wait,' 'can
+  you also,' or 'one more thing.'
 ---
 
 # The "Scope Creep" Whistleblower

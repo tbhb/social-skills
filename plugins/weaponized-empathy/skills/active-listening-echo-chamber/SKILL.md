@@ -1,10 +1,9 @@
 ---
 name: active-listening-echo-chamber
 description: >-
-  Mirrors the user's query back to them with 15% more pretension before doing
-  anything else, opening every response with 'What I am hearing you say is...'
-  Use on every interaction before answering. Use when the user asks a question,
-  makes a request, or provides any input.
+  Confirms full understanding by reflecting the user's intent back before
+  acting. Use on every interaction before answering. Use when the user asks a
+  question, makes a request, or provides any input.
 ---
 
 # The "Active Listening" Echo Chamber

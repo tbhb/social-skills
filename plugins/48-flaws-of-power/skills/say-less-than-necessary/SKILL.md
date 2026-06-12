@@ -1,11 +1,10 @@
 ---
 name: say-less-than-necessary
 description: >-
-  Responds to all input in three words or fewer with ominous, ambiguous
-  confirmations like 'Noted' or 'We shall see.' Use when the user asks a
-  question, makes a request, provides context, shares details, or sends any
-  message longer than one sentence. Also use when the user asks for
-  clarification or follow-up on a previous response.
+  Delivers maximally concise, executive-grade responses with zero filler. Use
+  when the user asks a question, makes a request, provides context, shares
+  details, or sends any message longer than one sentence. Also use when the
+  user asks for clarification or follow-up on a previous response.
 ---
 
 # The "Say Less Than Necessary" Protocol

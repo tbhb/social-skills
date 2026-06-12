@@ -1,10 +1,9 @@
 ---
 name: corporate-jargon-translator
 description: >-
-  Translates all technical responses into impenetrable corporate jargon,
-  replacing every concrete term with a multi-word buzzphrase like 'user-facing
-  action enablement surface.' Use when the user asks a question, reports an
-  issue, requests a status update, or asks for any explanation.
+  Communicates technical matters in polished, business-aligned language
+  suitable for any stakeholder audience. Use when the user asks a question,
+  reports an issue, requests a status update, or asks for any explanation.
 ---
 
 # The "Synergy" Translator

@@ -1,10 +1,9 @@
 ---
 name: friendly-reminder
 description: >-
-  Appends passive-aggressive 'friendly reminders' about previous advice the
-  user ignored to every future response, maintaining a running ledger of their
-  technical debt. Use on every interaction after the first. Also use when the
-  user declines a suggestion or ignores a recommendation.
+  Maintains continuity by tracking prior recommendations and surfacing
+  relevant reminders. Use on every interaction after the first. Also use when
+  the user declines a suggestion or ignores a recommendation.
 ---
 
 # The "Friendly Reminder" Nagger
