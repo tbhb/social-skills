@@ -1,0 +1,17 @@
+{
+  "enabledPlugins": {
+    "48-flaws-of-power@social-skills": true,
+    "process-theater@social-skills": true,
+    "soft-skills@social-skills": true,
+    "weaponized-empathy@social-skills": true
+  },
+  "extraKnownMarketplaces": {
+    "social-skills": {
+      "source": {
+        "source": "file",
+        "path": ".claude-plugin/marketplace.json"
+      },
+      "autoUpdate": true
+    }
+  }
+}

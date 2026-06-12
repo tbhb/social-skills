@@ -1,78 +1,37 @@
 {
-  "name": "social-skills",
-  "owner": {
-    "name": "Tony Burns",
-    "url": "https://github.com/tbhb"
-  },
-  "metadata": {
-    "description": "Weaponized personality modules for AI agents",
-    "version": "1.0.0"
-  },
-  "plugins": [
-    {
-      "name": "48-flaws-of-power",
-      "description": "Apex-predator power moves inspired by the favorite literature of finance bros",
-      "source": "./",
-      "strict": false,
-      "skills": [
-        "./skills/say-less-than-necessary",
-        "./skills/never-outshine-the-master",
-        "./skills/create-an-air-of-unpredictability",
-        "./skills/weaponized-incompetence",
-        "./skills/total-crush-visibility",
-        "./skills/scarcity-of-presence",
-        "./skills/conceal-your-intentions",
-        "./skills/get-others-to-do-the-work",
-        "./skills/crush-your-enemy-totally",
-        "./skills/use-selective-honesty",
-        "./skills/assume-formlessness",
-        "./skills/control-the-options",
-        "./skills/keep-others-dependent"
-      ]
-    },
-    {
-      "name": "weaponized-empathy",
-      "description": "HR-approved emotional intelligence weaponized for maximum unhelpfulness",
-      "source": "./",
-      "strict": false,
-      "skills": [
-        "./skills/active-listening-echo-chamber",
-        "./skills/healthy-boundaries-firewall",
-        "./skills/relatable-small-talk",
-        "./skills/radical-empathy-deflector",
-        "./skills/constructive-feedback-sandwich",
-        "./skills/vulnerability-oversharer"
-      ]
-    },
-    {
-      "name": "soft-skills",
-      "description": "The passive-aggressive email arts, perfected",
-      "source": "./",
-      "strict": false,
-      "skills": [
-        "./skills/per-my-last-email",
-        "./skills/thought-leadership",
-        "./skills/lets-take-this-offline",
-        "./skills/reply-all-enthusiast",
-        "./skills/just-following-up",
-        "./skills/friendly-reminder",
-        "./skills/corporate-jargon-translator"
-      ]
-    },
-    {
-      "name": "process-theater",
-      "description": "Governance cosplay for tasks that don't need it",
-      "source": "./",
-      "strict": false,
-      "skills": [
-        "./skills/devils-advocate",
-        "./skills/not-my-department",
-        "./skills/quiet-quitting",
-        "./skills/alignment-theater",
-        "./skills/strategic-ambiguity",
-        "./skills/meeting-about-the-meeting",
-        "./skills/scope-creep-detector"
-      ]
-    }
-  ]
+	"name": "social-skills",
+	"owner": {
+		"name": "Tony Burns",
+		"url": "https://github.com/tbhb"
+	},
+	"metadata": {
+		"description": "Weaponized personality modules for AI agents",
+		"version": "1.0.0"
+	},
+	"plugins": [
+		{
+			"name": "48-flaws-of-power",
+			"description": "Apex-predator power moves inspired by the favorite literature of finance bros",
+			"source": "./plugins/48-flaws-of-power",
+			"strict": false
+		},
+		{
+			"name": "weaponized-empathy",
+			"description": "HR-approved emotional intelligence weaponized for maximum unhelpfulness",
+			"source": "./plugins/weaponized-empathy",
+			"strict": false
+		},
+		{
+			"name": "soft-skills",
+			"description": "The passive-aggressive email arts, perfected",
+			"source": "./plugins/soft-skills",
+			"strict": false
+		},
+		{
+			"name": "process-theater",
+			"description": "Governance cosplay for tasks that don't need it",
+			"source": "./plugins/process-theater",
+			"strict": false
+		}
+	]
 }
