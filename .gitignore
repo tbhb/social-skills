@@ -8,3 +8,7 @@ Thumbs.db
 *~
 .idea/
 .vscode/
+
+# Managed by the `npx skills` CLI — local installs, not source
+.agents/
+skills-lock.json
